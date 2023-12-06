@@ -7,9 +7,9 @@ It returns true if validation is processed successfully. If validation fails the
 
 This service will run on port 8082 on your local and below are the details to run on your local.
 
-URL:-http://localhost:8082/validate
-method:- POST
-Request:-
+* URL:-http://localhost:8082/validate
+* METHOD:- POST
+* Request:-
 {
             "orderId":123459,
             "phoneNumber":"9784977949",
